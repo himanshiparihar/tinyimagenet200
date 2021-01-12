@@ -1,0 +1,2 @@
+# tinyimagenet200
+while calculating I got error of runtime due to size mismatch while calculating linear function . I tried to resolve it but didn't get the success ,also as the assignment is time bounded , I moreover focus on completing the source code and evaluating the Model Performance Metrics on the validation subset Model . Also the file created in the given tiny imagenet 200 folder and data picked from another tine imagenet 200 folder inside that folder. so paths are given accordingly .
